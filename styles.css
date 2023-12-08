@@ -9,7 +9,6 @@ body{
 }
 
 .products{
-  background-color: blue;
   display: block;
   margin-top: 105px;
   margin-left: 135px;
@@ -28,7 +27,6 @@ p{
 }
 
 .heading{
-  background-color: aqua;
   margin-top: 18px;
   margin-left: 135px;
   display: block;
@@ -45,7 +43,8 @@ p{
 
 .products-section{
   display: flex;
-  padding-top: 69px;
+  margin-top: 69px;
+  margin-left:135px ;
   align-items: center;
 }
 
@@ -57,7 +56,7 @@ p{
   background-position: center;
   background-repeat: no-repeat;
   background-size:cover;
-  margin-left: 135px;
+  margin-right: 30px;
 }
 
 .main-company{
@@ -124,7 +123,7 @@ p{
 
 .other-product{
   display: inline-block;
-  margin-left: 30px;
+  margin-right: 30px;
 }
 
 
@@ -142,7 +141,7 @@ p{
 .other-product-info{
   width: 370px;
   height: 144px;
-  background-color: aqua;
+  background-color: #FFF;
 }
 
 .company-name{
@@ -162,6 +161,7 @@ p{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
 }
 
 .other-product-name{
