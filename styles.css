@@ -187,3 +187,26 @@ p{
   padding-top: 12px;
   padding-right: 32px;
 }
+
+.button{
+  display: inline-block;
+  margin:75px 694px 125px 694px;
+  
+}
+
+.explore-button{
+  width: 170px;
+  height: 48px;
+  border-radius: 2px;
+  border: 1px solid rgba(23, 27, 27, 0.24);
+  color: #171B1B;
+  text-align: center;
+  font-family: Oswald;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+  background-color: #F5D3AB;
+  cursor: pointer;
+}
