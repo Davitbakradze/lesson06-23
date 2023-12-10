@@ -1,3 +1,9 @@
+@font-face{
+  font-family: Ultra, Oswald;
+  src: url(Oswald-VariableFont_wght.ttf);
+  src: url(Ultra-Regular.ttf);
+}
+
 *{
   margin: 0px;
   padding: 0px;
